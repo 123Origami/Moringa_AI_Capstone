@@ -63,7 +63,7 @@ By completing this toolkit, you will learn:
 
 ```bash
 # 1. Clone the repository
-git clone 
+git clone https://github.com/123Origami/Moringa_AI_Capstone.git
 cd go-beginner-toolkit
 
 # 2. Initialize Go module
@@ -423,3 +423,4 @@ This toolkit was created as part of the **Moringa School AI Capstone Project**. 
 
 
 </div>
+
